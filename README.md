@@ -1,6 +1,5 @@
 # Youtube-channel-Performance-analysis
 Analyze YouTube metrics and predict revenue using ML
-# YouTube Channel Performance Analytics
 
 This project explores real YouTube analytics data to uncover performance trends and build a machine learning model to predict estimated revenue based on views, engagement, and other metrics.
 
